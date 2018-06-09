@@ -1,0 +1,1 @@
+Open with wireshark search Packet bytes Narrow & Wide for String flag. You will find the flag there

@@ -1,0 +1,3 @@
+1. unshadow passwd shadow > pw
+2. john --show pw
+Should found a password
